@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.small_card{
+    width: 200px;
+    height: 150px;
+}
+.small_card img{
+    width: 200px;
+    height: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+}

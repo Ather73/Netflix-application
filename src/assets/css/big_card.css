@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.big_card{
+    width: 200px;
+    height: 300px;
+}
+.big_card img{
+    width: 200px;
+    height: 300px;
+    border-radius: 8px;
+    object-fit: cover;
+}
